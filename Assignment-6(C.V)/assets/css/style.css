@@ -1,0 +1,129 @@
+* {
+  margin: 0px;
+}
+body {
+  background-color: gray;
+}
+
+.body {
+  background-color: lightblue;
+  margin: 0px auto;
+  width: 1000px;
+  height: 1000px;
+}
+
+.head {
+  height: 300px;
+  border-bottom: 2px solid black;
+}
+
+.img {
+  float: left;
+}
+.img img {
+  height: 250px;
+  width: 200px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.name {
+  float: left;
+}
+
+.name h1 {
+  margin: 100px 20px 0px;
+  font-family: Bahnschrift;
+}
+
+.email {
+  float: right;
+}
+
+.email p {
+  font-weight: bold;
+  margin-top: 100px;
+  margin-right: 30px;
+}
+
+.name h2 {
+  margin: 0px 20px;
+  font-family: Bahnschrift;
+}
+
+.P-info {
+  height: 200px;
+  border-bottom: 2px solid black;
+}
+
+.info {
+  float: left;
+  width: 30%;
+
+  height: 200px;
+}
+
+.info h3 {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.detail-1 {
+  float: left;
+  width: 70%;
+  height: 200px;
+}
+
+.detail-1 p {
+  margin-top: 20px;
+}
+
+.edu {
+  height: 200px;
+  border-bottom: 2px solid black;
+}
+
+.e {
+  float: left;
+  width: 30%;
+  height: 200px;
+  padding: 0px;
+}
+
+.e h3 {
+  margin: 20px;
+}
+
+.detail-2 h4 {
+  margin-top: 20px;
+}
+
+.detail-2 {
+  float: left;
+  width: 70%;
+  height: 200px;
+}
+
+.W-exp {
+  height: 200px;
+}
+
+.w {
+  height: 200px;
+  width: 30%;
+  float: left;
+}
+
+.w h3 {
+  margin: 20px;
+}
+
+.detail-3 {
+  height: 200px;
+  width: 70%;
+  float: left;
+}
+
+.detail-3 h4 {
+  margin-top: 20px;
+}

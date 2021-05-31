@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: cadetblue;
+}
+.post {
+  margin: 50px auto;
+  width: 500px;
+  background-color: burlywood;
+  padding: 40px 100px;
+  border-left: 10px solid brown;
+}
+
+.post h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: brown;
+}
+
+.post img {
+  height: 200px;
+}
+
+.post p {
+  color: brown;
+  text-align: justify;
+  font-family: cursive;
+  margin: 20px 0px;
+}

@@ -1,0 +1,249 @@
+* {
+  margin: 0;
+  background-color: white;
+}
+
+h2 {
+  text-align: center;
+}
+.bangladesh {
+  background-color: green;
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+  overflow: hidden;
+}
+
+.red {
+  background-color: red;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  margin: 24px auto;
+}
+
+.german {
+  width: 500px;
+  height: 100px;
+  margin: 50px auto;
+  background-color: red;
+  border-top: 100px solid black;
+  border-bottom: 100px solid yellow;
+}
+
+.argen {
+  width: 500px;
+  height: 100px;
+  margin: 50px auto;
+  background-color: white;
+  border-top: 100px solid skyblue;
+  border-bottom: 100px solid skyblue;
+  overflow: hidden;
+  text-align: center;
+}
+
+img {
+  height: 100px;
+}
+
+.canada {
+  width: 250px;
+  height: 250px;
+  margin: 50px auto;
+  background-color: white;
+  border-left: 125px solid red;
+  border-right: 125px solid red;
+  overflow: hidden;
+  text-align: center;
+}
+
+.logo {
+  height: 200px;
+  margin-top: 20px;
+}
+
+.turkey {
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: rgb(226, 0, 0);
+  overflow: hidden;
+}
+
+.tur {
+  color: white;
+  height: 160px;
+  margin-top: 60px;
+  margin-left: 60px;
+}
+
+.russia {
+  width: 500px;
+  height: 100px;
+  margin: 50px auto;
+  background-color: blue;
+  border-top: 100px solid whitesmoke;
+  border-bottom: 100px solid red;
+}
+
+.japan {
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: whitesmoke;
+  overflow: hidden;
+}
+
+.m {
+  height: 80px;
+}
+
+.italy {
+  width: 150px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: whitesmoke;
+  border-left: 150px solid green;
+  border-right: 150px solid red;
+}
+
+.austria {
+  width: 500px;
+  height: 100px;
+  margin: 50px auto;
+  background-color: whitesmoke;
+  border-top: 100px solid red;
+  border-bottom: 100px solid red;
+}
+
+.spain {
+  width: 500px;
+  height: 150px;
+  margin: 50px auto;
+  background-color: yellow;
+  border-top: 100px solid red;
+  border-bottom: 100px solid red;
+  overflow: hidden;
+}
+
+.sp {
+  color: yellow;
+  margin: 25px 75px;
+}
+
+.malta {
+  width: 250px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: white;
+  border-right: 250px solid red;
+}
+
+.indonesia {
+  width: 500px;
+  height: 150px;
+  margin: 50px auto;
+  background-color: red;
+  border-bottom: 150px solid whitesmoke;
+}
+
+.mexico {
+  width: 150px;
+  height: 300px;
+  background-color: white;
+  margin: 50px auto;
+  border-right: 160px solid red;
+  border-left: 160px solid green;
+  text-align: center;
+  overflow: hidden;
+}
+
+.me {
+  margin: 100px 0px;
+}
+
+.skorea {
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+.s {
+  margin: 90px 0px;
+  height: 130px;
+}
+.ireland {
+  width: 150px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: whitesmoke;
+  border-right: 150px solid orange;
+  border-left: 150px solid green;
+}
+
+.iraq {
+  width: 500px;
+  height: 100px;
+  margin: 50px auto;
+  background-color: white;
+  border-top: 100px solid red;
+  border-bottom: 100px solid black;
+  text-align: center;
+}
+
+.ir {
+  height: 80px;
+  margin: 15px 0px;
+}
+
+.switzerland {
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: red;
+  text-align: center;
+  overflow: hidden;
+}
+
+.swit {
+  height: 250px;
+  margin: 20px 0px;
+}
+
+.thailand {
+  width: 500px;
+  height: 200px;
+  margin: 50px auto;
+  background-color: whitesmoke;
+  overflow: hidden;
+  border-top: 50px solid red;
+  border-bottom: 50px solid red;
+}
+
+.blue {
+  width: 500px;
+  height: 100px;
+  margin: 48px auto;
+  background-color: rgb(0, 0, 173);
+}
+
+.belgium {
+  width: 170px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: yellow;
+  border-left: 150px solid black;
+  border-right: 150px solid red;
+}
+
+.netherlands {
+  width: 500px;
+  height: 100px;
+  margin: 50px auto;
+  background-color: whitesmoke;
+  border-top: 100px solid red;
+  border-bottom: 100px solid blue;
+}

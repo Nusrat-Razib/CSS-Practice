@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+}
+
+.baby-1 {
+  height: 400px;
+  background-color: cadetblue;
+}
+
+.baby-2 {
+  height: 300px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../img/cute.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+
+.baby-2 h1 {
+  font-family: impact;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.baby-2 p {
+  font-family: candara;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.baby-2 a {
+  text-decoration: none;
+  display: inline-block;
+  background-color: #fff;
+  color: black;
+  padding: 10px 20px;
+}
+
+.baby-3 {
+  height: 400px;
+  background-color: cadetblue;
+}

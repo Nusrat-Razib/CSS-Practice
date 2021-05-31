@@ -1,0 +1,87 @@
+* {
+  margin: 0px;
+}
+
+.steve {
+  width: 33.33%;
+  height: 500px;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.steve img {
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+.steve h2 {
+  color: white;
+  text-transform: uppercase;
+  font-family: impact;
+  font-weight: normal;
+}
+
+.steve p {
+  color: yellow;
+}
+
+.mark {
+  width: 33.33%;
+  height: 500px;
+  background-color: rgb(0, 0, 0);
+  float: left;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.mark img {
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+.mark h2 {
+  color: white;
+  text-transform: uppercase;
+  font-family: impact;
+  font-weight: normal;
+}
+
+.mark p {
+  color: yellow;
+}
+
+.elon {
+  width: 33.33%;
+  height: 500px;
+  background-color: rgb(0, 0, 0);
+  float: left;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.elon img {
+  width: 250px;
+  height: 250px;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+.elon h2 {
+  color: white;
+  text-transform: uppercase;
+  font-family: impact;
+  font-weight: normal;
+}
+
+.elon p {
+  color: yellow;
+}
