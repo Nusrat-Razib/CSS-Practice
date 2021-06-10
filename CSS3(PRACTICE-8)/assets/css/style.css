@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Lobster B";
+  src: url(../fonts/LobsterTwo-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Classic";
+  src: url(../fonts/PlayfairDisplaySC-Regular.ttf);
+}
+
+@font-face {
+  font-family: Cookie R;
+  src: url(../fonts/Cookie-Regular.ttf);
+}
+
+@font-face {
+  font-family: MateSC R;
+  src: url(../fonts/MateSC-Regular.ttf);
+}
+
+@font-face {
+  font-family: DancingScript R;
+  src: url(../fonts/DancingScript-Regular.ttf);
+}
+
+@font-face {
+  font-family: Courgette Regular;
+  src: url(../fonts/Courgette-Regular.ttf);
+}
+
+@font-face {
+  font-family: Parisienne-Regular;
+  src: url(../fonts/Parisienne-Regular.ttf);
+}
+
+@font-face {
+  font-family: "GreatVibes-Regular";
+  src: url(../fonts/GreatVibes-Regular.ttf);
+}
+
+* {
+  margin: 0px;
+}
+
+body {
+  background: linear-gradient(maroon, #000);
+}
+
+.box {
+  width: 500px;
+
+  background-color: #333;
+
+  padding: 40px 80px;
+  margin: 100px auto;
+
+  border: 10px double white;
+
+  transition: 1s;
+}
+
+.box:hover {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 1);
+}
+
+.box h1 {
+  font-family: "GreatVibes-Regular";
+  color: whitesmoke;
+}
+
+.box h1:hover {
+  color: tomato;
+}
+
+.box p {
+  margin: 10px 0px;
+  color: white;
+  text-align: justify;
+  font-size: 25px;
+  font-family: Cookie R;
+}
+
+.box p:hover {
+  color: tomato;
+}
+
+.box img {
+  width: 250;
+  height: 400px;
+  transition: 1s;
+}
+
+.box img:hover {
+  transform: translate(100px, 0px) rotateY(180deg);
+}
